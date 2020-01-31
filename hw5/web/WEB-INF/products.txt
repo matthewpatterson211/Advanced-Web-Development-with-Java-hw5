@@ -1,0 +1,4 @@
+8601|Infinity Gauntlet|14.95|https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/15730/15730._SX360_QL80_TTD_.jpg
+pf01|Captain Marvel Vol. 1|12.95|https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/149220/149220._SX360_CLs%7C360,553%7Ccu/cmx-cu-sash-lg.png%7C0,0,361,554%20208,401,152,152_QL80_TTD_.jpg
+pf02|Amazing Spiderman|14.95|https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/736897/736897._SX360_QL80_TTD_.jpg
+jr01|Astonishing Ant-man|14.95|https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/246089/DIG060514_1._SX360_CLs%7C360,554%7Ccu/cmx-cu-sash-lg.png%7C0,0,361,555%20208,402,152,152_QL80_TTD_.jpg
